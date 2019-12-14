@@ -21,4 +21,12 @@
     cursor: pointer;
     font-weight: bold;
   }
+  body{
+      background-image: url(/images/1.jpg);
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+      text-align: center
+  }
   
