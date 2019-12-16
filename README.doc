@@ -1,16 +1,25 @@
 # _Pizza Order Website_
 
-#### _A webpage that allows the user to order pizza pies with toppings._
+#### A webpage that allows the user to order pizza pies with toppings.
 
-#### By _**DENNIS MWANIKI**_
+#### By **DENNIS MWANIKI**
 
 ## Description
 
-_A webpage that utilizes JavaScript objects and jQuery to allow the user to order as many pizza pies as they wish with a variety of topping options. Prices for each pizza pie are totaled and displayed to user._
+A webpage that utilizes JavaScript objects and jQuery to allow the user to order as many pizza pies as they wish with a variety of topping options. Prices for each pizza pie are totaled and displayed to user._
 
-## Setup/Installation Requirements
+## Live Page 
+https://dennismwaniki67.github.io/pizza
 
-* _Viewing the page is easily accomplished by opening the index.html file in any internet browser._
+
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone https://github.com/dennismwaniki67/pizza.git
+
+* cd pizza
+
+* code . or atom . depending on the text editor of your choise.
 
 
 ## Known Bugs
